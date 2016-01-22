@@ -1,0 +1,24 @@
+{
+  "name": "angular-material-template",
+  "description": "Basic template for a new Angular-Material for Sites project.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Taras Havrysh"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/octobercms/october",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.1",
+    "angular-material-icons": "~0.6.0",
+    "angular-carousel": "lifely-angular-carousel#~1.1.0"
+  }
+}

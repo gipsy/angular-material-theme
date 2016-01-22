@@ -1,0 +1,18 @@
+{
+  "name": "angular-material-template",
+  "version": "1.0.0",
+  "description": "Basic template for a new Angular-Material for Sites project.",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.2.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-sass": "^2.1.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Taras Havrysh",
+  "license": "MIT",
+  "private": true
+}
